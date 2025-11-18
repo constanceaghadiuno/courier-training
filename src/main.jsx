@@ -8,3 +8,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <CourierTraining />
   </React.StrictMode>
 );
+

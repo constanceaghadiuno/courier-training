@@ -1,0 +1,1601 @@
+{
+  "title": "Courier Zone: HIPAA for Medical Couriers",
+  "chapters": [
+    {
+      "title": "Preface",
+      "sections": []
+    },
+    {
+      "title": "Introduction",
+      "sections": [
+        {
+          "title": "Opening: Welcome to the Courier Zone",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "\"You\u2019re traveling through another dimension of healthcare delivery\u2014not only of speed and efficiency but of privacy and security. A journey into a wondrous land whose boundaries are that of federal law. That\u2019s the signpost up ahead\u2014your next stop, the Courier Zone.\""
+            }
+          ]
+        },
+        {
+          "title": "Part I: Foundation in the Zone",
+          "content": [
+            {
+              "type": "subheading",
+              "text": "Chapter 1: Your Dimension \u2014 The Medical Courier\u2019s Role in HIPAA"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Twilight Zone intro"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Learning Objectives: define courier\u2019s role, explain PHI chain, recognize importance of compliance"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Core Content: courier\u2019s place in healthcare, BAAs, role as guardian of PHI"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Compliance in Practice: key courier duties checklist"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Case:\u201cThe Invisible Link\u201d"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Discussion + Knowledge Check"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "Chapter 2: The Laws of This Reality \u2014 HIPAA Fundamentals"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Privacy, Security, Breach Notification, BAA rules (45 CFR references)"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Compliance in Practice: summary table of HIPAA rules"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Case:\u201cThe Rulebook\u201d"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Discussion + Knowledge Check"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "Chapter 3: What Exists in Your Zone \u2014 Identifying PHI in Transit"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "PHI forms (paper, electronic, specimens, demographics)"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Compliance in Practice: PHI ID Quick Card"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Case:\u201cThe Hidden File\u201d"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Discussion + Knowledge Check"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Part II: Navigation Through the Zone",
+          "content": [
+            {
+              "type": "subheading",
+              "text": "Chapter 4: The Pathways \u2014 Permissible Uses & Disclosures"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Treatment, Payment, Operations (TPO)"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Individual authorization, emergencies, required disclosures"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Case:\u201cThe Wrong Turn\u201d"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Discussion + Knowledge Check"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "Chapter 5: The Barriers \u2014 Minimum Necessary Standard"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Limiting access, segregation, documentation"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Compliance in Practice: minimum necessary decision tree"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Case:\u201cThe Extra Envelope\u201d"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Discussion + Knowledge Check"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "Chapter 6: The Guardians \u2014 Administrative Safeguards"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Workforce training, security officer, policy enforcement"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Case:\u201cThe Absent Guardian\u201d"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Discussion + Knowledge Check"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Part III: Protection in the Zone",
+          "content": [
+            {
+              "type": "subheading",
+              "text": "Chapter 7: The Fortress \u2014 Physical Safeguards in Transit"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Facility access, workstation use, devices, vehicle security"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Compliance in Practice: vehicle/facility checklist"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Case:\u201cThe Stolen Van\u201d"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Discussion + Knowledge Check"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "Chapter 8: The Shield \u2014 Technical Safeguards"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Access controls, audit logs, integrity, authentication"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Case:\u201cThe Device That Wouldn\u2019t Forget\u201d"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Discussion + Knowledge Check"
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "Chapter 9: The Protocols \u2014 Courier-Specific Security Measures"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Secure containers, chain of custody, GPS, comms"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Case:\u201cThe Unsealed Box\u201d"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Discussion + Knowledge Check"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 1: Your Dimension \u2014 The Medical Courier\u2019s Role in HIPAA",
+      "sections": []
+    },
+    {
+      "title": "Chapter 2: The Laws of This Reality \u2014 HIPAA Fundamentals",
+      "sections": []
+    },
+    {
+      "title": "Chapter 3: What Exists in Your Zone \u2014 Identifying PHI in Transit",
+      "sections": []
+    },
+    {
+      "title": "Chapter 4: The Pathways \u2014 Permissible Uses & Disclosures",
+      "sections": []
+    },
+    {
+      "title": "Chapter 5: The Barriers \u2014 Minimum Necessary Standard",
+      "sections": []
+    },
+    {
+      "title": "Chapter 6: The Guardians \u2014 Administrative Safeguards",
+      "sections": []
+    },
+    {
+      "title": "Chapter 7: The Fortress \u2014 Physical Safeguards in Transit",
+      "sections": []
+    },
+    {
+      "title": "Chapter 8: The Shield \u2014 Technical Safeguards",
+      "sections": []
+    },
+    {
+      "title": "Chapter 9: The Protocols \u2014 Courier-Specific Security Measures",
+      "sections": []
+    },
+    {
+      "title": "Chapter 10: The Incidents \u2014 Breach Recognition & Response",
+      "sections": []
+    },
+    {
+      "title": "Chapter 11: The Aftermath \u2014 Risk Assessment & Mitigation",
+      "sections": []
+    },
+    {
+      "title": "\ud83d\udcd8 Courier Zone: HIPAA Fundamentals \u2014 Final Exam (40 Questions)",
+      "sections": []
+    },
+    {
+      "title": "\ud83d\udcd8 Final Exam Answer Key",
+      "sections": []
+    },
+    {
+      "title": "\ud83d\udcd8 Courier Zone: HIPAA Fundamentals \u2014 Alternate Final Exam (40 Questions)",
+      "sections": [
+        {
+          "title": "Section 1: True or False (10 questions)",
+          "content": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "HIPAA applies only to doctors, nurses, and hospitals."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "A courier company becomes a business associate when it signs a BAA with a covered entity."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "PHI can include a patient\u2019s address even without medical details attached."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "A courier who uses their personal phone for work deliveries is automatically HIPAA compliant."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Delivering PHI to the wrong person is a breach even if they don\u2019t open it."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Minimum Necessary means couriers should not ask for more information than required."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Administrative safeguards include tamper-evident containers."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Leaving PHI in a locked glove compartment overnight is considered secure."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Audit logs are an example of a technical safeguard."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Every breach requires notification to patients, no matter how small."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Section 2: Multiple Choice (15 questions)",
+          "content": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Which of the following is an example of PHI?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) A delivery time stamp"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) A patient\u2019s insurance ID number"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) A courier\u2019s driver\u2019s license number"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) A package weight"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Which HIPAA rule establishes limits on how PHI can be disclosed?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) Security Rule"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) Privacy Rule"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) Breach Notification Rule"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) Transport Rule"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Which safeguard type requires a designated Security Officer?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) Administrative"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) Physical"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) Technical"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) Operational"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Which is the best example of Minimum Necessary in action?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) Writing down full patient charts for personal notes"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) Recording only package ID numbers in custody logs"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) Asking for Social Security numbers to confirm delivery"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) Printing all lab orders for review by the courier"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Which of the following is aphysical safeguard?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) Password protection"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) Locked specimen cooler"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) Staff training"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) Encryption"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "A courier uses GPS tracking software on their company device. Which safeguard is this most closely tied to?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) Technical"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) Administrative"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) Physical"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) None"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Which of the following is a required disclosure under HIPAA?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) To law enforcement upon request"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) To the patient upon request"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) To family members who call in for updates"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) To the media in case of interest"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "If a courier accidentally leaves PHI at the wrong office, the immediate step is to:"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) Go back the next day to fix it"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) Secure the PHI and report immediately"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) Wait until supervisor calls"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) Ignore it if no one complains"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Which of the following is a breach?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) Courier delivers PHI to the right patient"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) Courier stores PHI in a locked bag at all times"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) Courier\u2019s tablet with PHI is stolen"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) Courier logs delivery with package number"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Which of the following is NOT an identifier under HIPAA?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) Name"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) Social Security Number"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) Package weight"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) Date of birth"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Which HIPAA safeguard would apply most directly to password policies?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) Physical"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) Technical"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) Administrative"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) Operational"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Which action is part of mitigation?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) Concealing an incident"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) Recovering lost PHI quickly"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) Waiting until the shift ends to report"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) Ignoring policies"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "A courier\u2019s company fails to ever train new employees on HIPAA. Which safeguard is missing?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) Technical"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) Physical"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) Administrative"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) Privacy"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Which of these best describes \u201cchain of custody\u201d?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) A log showing every handoff of PHI"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) A legal form to release PHI"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) A lock placed on containers"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) A digital encryption system"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Which of these scenarios would be consideredlow riskin a breach assessment?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "a) PHI recovered quickly and never viewed"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "b) PHI misdelivered to a competitor"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "c) PHI stolen with a vehicle and never recovered"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "d) PHI shared with an unknown party"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Section 3: Fill-in-the-Blank (5 questions)",
+          "content": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "HIPAA\u2019s ______ Rule establishes safeguards for electronic PHI."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Courier custody logs should use package IDs, not ______ names."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Tamper-evident containers show if they have been ______."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "The four breach assessment factors include the type of PHI, who accessed it, whether it was viewed, and the extent of ______."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "HIPAA requires covered entities and business associates to limit PHI use to the ______ necessary."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Section 4: Scenario-Based Questions (5 questions)",
+          "content": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "A courier leaves their unlocked tablet with delivery logs on the front seat. What safeguard has failed?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "A courier notices a custody log entry was skipped during a multi-stop route. What protocol was broken?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "A courier misdelivers PHI to the wrong clinic, but it is returned unopened within an hour. Which HIPAA rule is most implicated?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "A courier is given a sealed envelope, but upon delivery, it is found to contain full patient charts instead of a simple lab order. Which HIPAA principle was violated?"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "A courier stores PHI in a personal email account to track deliveries. Which safeguard category does this breach?"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "\ud83d\udcd8 Alternate Exam Answer Key",
+      "sections": []
+    },
+    {
+      "title": "Chapter 1: The Courier\u2019s Role in HIPAA",
+      "sections": []
+    },
+    {
+      "title": "Chapter 2: The Laws of This Reality \u2014 HIPAA Fundamentals",
+      "sections": []
+    },
+    {
+      "title": "Chapter 3: Identifying PHI in Transit",
+      "sections": []
+    },
+    {
+      "title": "Chapter 4: Permissible Uses and Disclosures",
+      "sections": []
+    },
+    {
+      "title": "Chapter 5: The Minimum Necessary Standard",
+      "sections": []
+    },
+    {
+      "title": "Chapter 6: Administrative Safeguards",
+      "sections": []
+    },
+    {
+      "title": "Chapter 7: Physical Safeguards in Transit",
+      "sections": []
+    },
+    {
+      "title": "Chapter 8: Technical Safeguards",
+      "sections": []
+    },
+    {
+      "title": "Chapter 9: Courier-Specific Security Measures",
+      "sections": []
+    },
+    {
+      "title": "Chapter 10: Breach Recognition and Response",
+      "sections": []
+    },
+    {
+      "title": "Chapter 11: Risk Assessment and Mitigation",
+      "sections": []
+    },
+    {
+      "title": "\ud83d\udcd8 Glossary of Terms for Medical Couriers",
+      "sections": []
+    },
+    {
+      "title": "Conclusion: Guardians of PHI",
+      "sections": []
+    },
+    {
+      "title": "Appendix",
+      "sections": [
+        {
+          "title": "A. Chapter Knowledge Check Answer Key",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "(Compiled from Chs. 1\u201311)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Chapter 1"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "False"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "b) Business Associate Agreement (BAA)"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Guardians"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Chapter 2"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "b) Security Rule"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "False"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Business Associate Agreement (BAA)"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Chapter 3"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "False"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "b) USB drive with imaging files"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Identify"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Chapter 4"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "c) Delivering PHI to a patient\u2019s attorney"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "True"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Authorization"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Chapter 5"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "b) Use or disclose only what is necessary"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "False"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Patient names"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Chapter 6"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "c) Administrative"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "True"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Security Officer"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Chapter 7"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "b) Locking the vehicle"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "False"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Physical"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Chapter 8"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "b) Transmission Security"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "False"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Unique"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Chapter 9"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "b) Chain of custody documentation"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "False"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Sealed, tamper-evident, opaque"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Chapter 10"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "a) Delivering PHI to the wrong facility"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "False"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Secure"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Chapter 11"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "c) Courier\u2019s intent or feelings"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "True"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Logs"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "B. Final Examination (40 Questions)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Two exam versions are provided:"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Exam A(chapter-based, sequential)"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Exam B(mixed format: T/F, multiple choice, fill-in, scenarios, short answers)"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "(already written and included earlier in this project \u2014 to be formatted into the appendix)"
+            }
+          ]
+        },
+        {
+          "title": "C. Final Examination Answer Keys",
+          "content": [
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Exam A Key: Provided in Section A above (chapter by chapter)."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Exam B Key: Provided in earlier draft (grouped by section)."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "D. Quick Reference Sheets",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "1. PHI Identification Checklist"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Names, dates of birth, addresses"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Medical record numbers, insurance IDs"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Specimen labels with identifiers"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Delivery logs listing patient information"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Digital files containing patient data"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "2. Breach Response Steps"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Secure the situation (recover or protect PHI)."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Notify your supervisor or compliance officer immediately."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Document what happened (facts only)."
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Cooperate fully with investigation."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "3. Vehicle & Container Security"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Lock vehicle whenever unattended"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Keep PHI out of sight"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Use sealed, opaque, tamper-evident containers"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Never store PHI in vehicles overnight"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "4. Chain of Custody Essentials"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Record every pickup and delivery"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Use package IDs or barcodes (not names)"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Get signatures or digital confirmation"
+              ]
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Keep logs accurate and complete"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "E. Sample Forms",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sample Chain of Custody Log"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
